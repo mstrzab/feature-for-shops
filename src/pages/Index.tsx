@@ -5,7 +5,7 @@ const Index = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="min-h-screen bg-white animate-fade-in">
+    <div className="min-h-screen bg-[#F1F0FB] animate-fade-in">
       <main className="container py-8 px-4 sm:px-6 lg:px-8">
         <ProductCarousel />
         
